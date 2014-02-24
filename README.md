@@ -6,4 +6,4 @@ Art installation made during the Art Hack Day of Transmediale 2014 by Carl Emil 
 Blurb:
 Once they shined at the peak of the technological evolution, glowing with pride, well knowing the unequaled power hiding beneath each of their crisp pixels. Now outcompeted, outdated, out of memory and part of the ever-rising sea of null pointing data. Let's empty the trash and celebrate the has-beens, in all their nostalgic uselessness, let's spare them a moment of attention and contemplate how much has really changed.
 
-More attempts at describing this thing: http://piratepad.net/Q3105mLuI8
+More attempts at describing this thing: http://bitbugs.org/2014/02/20/has-been-trash-bin-art-installation-from-transmediales-art-hack-day/
